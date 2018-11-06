@@ -10,6 +10,6 @@
 @interface AIRMapCallout : RCTView
 
 @property (nonatomic, assign) BOOL tooltip;
-@property (nonatomic, copy) RCTBubblingEventBlock onPress;
+// @property (nonatomic, copy) RCTBubblingEventBlock onPress;
 
 @end
